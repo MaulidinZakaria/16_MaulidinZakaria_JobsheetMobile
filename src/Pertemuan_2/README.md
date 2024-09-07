@@ -75,4 +75,4 @@ Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan 
 
 #### Jawab :
 
-[Link Google Slide](https://drive.google.com/file/d/1OTc10LL-l1tJUQTkNl3E2QCXO_LuHHH-/view?usp=drive_link)
+[Link Google Slide](https://docs.google.com/presentation/d/1iXRKenF-_kaHl35nR9-Pr8z6oZBTboui/edit?usp=sharing&ouid=103926660888790701081&rtpof=true&sd=true)
