@@ -14,11 +14,11 @@ Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut
 
 Kode :
 
-![](../../docs/Pertemuan2_Kode.png)
+![](../../docs/Pertemuan_2/Pertemuan2_Kode.png)
 
 Output : 
 
-![](../../docs/Pertemuan2_Output.png)
+![](../../docs/Pertemuan_2/Pertemuan2_Output.png)
 
 
 ### Soal 2
