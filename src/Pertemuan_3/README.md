@@ -68,6 +68,8 @@ Output :
 
 Kode tersebut adalah contoh penggunaan for loop dalam Dart.
 
+Kode :
+
 ![](../../docs/Pertemuan_3/Pertemuan3_Kode2_Praktikum3.png)
 
 Output :
