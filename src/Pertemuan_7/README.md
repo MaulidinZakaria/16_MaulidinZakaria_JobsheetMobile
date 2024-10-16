@@ -62,7 +62,7 @@ Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbeda
 
 #### Jawab :
 
-Terdapat perbedaan pada ukuran textnya, hal tersebut disebabkan pada widget pertama menggunakan plugin auto_size_text yang dimana berfungsi untuk menyesuaikan ukuran text dengan ukuran parentnya. Sedangkan 
+Terdapat perbedaan pada ukuran textnya, hal tersebut disebabkan pada widget pertama menggunakan plugin auto_size_text yang dimana berfungsi untuk menyesuaikan ukuran text dengan ukuran parentnya. Sedangkan widget kedua ukurannya tidak berubah walaupun ukuran parentnya berubah.
 
 ## Soal 5
 
