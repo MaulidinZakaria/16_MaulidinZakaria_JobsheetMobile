@@ -34,11 +34,11 @@ Langkah 4 : Tambahkan kode yang sudah ada pada praktikum. Error? hal tersebut di
 
 Langkah 5 : Buat variable text dan parameter di constructor
 
-![](../../docs/Pertemuan_7/Langkah4.png)
+![](../../docs/Pertemuan_7/Langkah5.png)
 
 Langkah 6 : Tambahkan widget yang telah dibuat di file main
 
-![](../../docs/Pertemuan_7/Langkah4.png)
+![](../../docs/Pertemuan_7/Langkah6.png)
 
 ## Soal 2
 
